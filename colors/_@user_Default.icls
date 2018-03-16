@@ -1,0 +1,20 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-03-15T12:31:48</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.1.0.0</property>
+    <property name="modified">2018-03-16T07:45:53</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="bbe6ab" />
+  </colors>
+  <attributes>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="dbe64f" />
+        <option name="ERROR_STRIPE_COLOR" value="aadeaa" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
