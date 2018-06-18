@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/javasolutionspl/KursSpring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Pharisaeus/SpringScaffoldApplication.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Programowanie JAVA\MySpring" />
