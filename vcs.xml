@@ -50,8 +50,12 @@
           <option name="url" value="https://github.com/neocorp/spring-mvc-thymeleaf-crud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BottegaIT/ddd-leaven-v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Programowanie JAVA\MySpring\Erdogan" />
+    <option name="cloneParentDir" value="D:\Programowanie JAVA\BottegaIT" />
   </component>
 </application>
